@@ -631,7 +631,7 @@ export default function Home() {
                   </div>
                   <div className="w-full font-bold ml-6">
                     Lorem ipsum dolor sit amet consectetur adipiscing elit
-                    quisque faucibus.
+                    quisque faucibus....
                   </div>
                   <div className="w-1/4 text-left">02/09/25</div>
                   <div className="w-1/4 text-left">10/09/25</div>
